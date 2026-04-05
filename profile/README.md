@@ -90,20 +90,6 @@ Category: "Web App / Game / AI / Tool / CLI / Hardware / Other"
 
 ---
 
-## 📅 Club Activity Calendar
-
-| Event | Frequency | Description |
-|-------|-----------|-------------|
-| 🔥 **Project Drop** | Monthly | Members present new or updated projects |
-| 🧑‍💻 **Workshop Wednesdays** | Bi-weekly | Peer-taught sessions on any tech topic |
-| ⚔️ **Internal Hackathon** | Per Semester | 24-48hr build sprint with themes |
-| 🌍 **Hackathon Squad** | As needed | Team-up for external hackathons |
-| 🗣️ **Tech Talks** | Monthly | Deep dives on a concept — no slides required |
-| 🐛 **Debug Sessions** | Weekly | Bring your broken code, leave with fixes |
-| 🎯 **Code Golf** | Monthly | Shortest code wins. Bragging rights guaranteed. |
-
----
-
 ## 🤝 How to Join
 
 Joining RawBytez is stupidly simple:
