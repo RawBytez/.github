@@ -142,7 +142,7 @@ Design        →  Figma, Framer, Canva
 
 | 🥇 | Project | Builder(s) | Stack | Link |
 |----|---------|------------|-------|------|
-| ⭐ | *IdeaPulley* | NotUnHackable (Aaryan Bansal) | NextJS | ideapulley.com |
+| ⭐ | *IdeaPulley* | @NotUnHackable (Aaryan Bansal) | NextJS | ideapulley.com |
 
 ---
 
@@ -168,7 +168,7 @@ Design        →  Figma, Framer, Canva
 |----------|------|
 | 🐙 GitHub Org | `github.com/rawbytez` |
 | 💬 Group Chat | *Posted on notice board* |
-| 📧 Email | `aaryan.bansal.dev@gmail.com` |
+| 📧 Email | `help@rawbytez.indevs.in` |
 | 🌍 Website | *In development* |
 
 ---
