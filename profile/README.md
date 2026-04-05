@@ -194,7 +194,7 @@ rawbytez/
 |----------|------|
 | 🐙 GitHub Org | `github.com/rawbytez` |
 | 💬 Group Chat | *Posted on notice board* |
-| 📧 Email | `aaryan.bansal.dev@gmail.com` *(placeholder)* |
+| 📧 Email | `aaryan.bansal.dev@gmail.com` |
 | 🌍 Website | *In development* |
 
 ---
