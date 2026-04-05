@@ -164,30 +164,6 @@ Design        →  Figma, Framer, Canva
 
 ---
 
-## 📁 Repository Structure
-
-```
-rawbytez/
-├── README.md               ← You are here
-├── MEMBERS.md              ← Current member list
-├── PROJECTS.md             ← Full project showcase registry
-├── EVENTS.md               ← Upcoming and past events
-├── workshops/
-│   ├── session-01/         ← Workshop slides, code, notes
-│   └── session-02/
-├── hackathons/
-│   ├── internal-s1-2025/   ← Internal hackathon submissions
-│   └── external/           ← External hackathon team records
-├── resources/
-│   ├── learning-paths.md   ← Curated roadmaps by topic
-│   ├── free-tools.md       ← Free dev tools for students
-│   └── starter-templates/  ← Boilerplate projects to clone
-└── .github/
-    └── ISSUE_TEMPLATE/     ← Project submission templates
-```
-
----
-
 ## 🌐 Links & Contact
 
 | Platform | Link |
