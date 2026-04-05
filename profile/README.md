@@ -142,9 +142,7 @@ Design        →  Figma, Framer, Canva
 
 | 🥇 | Project | Builder(s) | Stack | Link |
 |----|---------|------------|-------|------|
-| ⭐ | *Your project could be here* | You | — | — |
-| ⭐ | *Your project could be here* | You | — | — |
-| ⭐ | *Your project could be here* | You | — | — |
+| ⭐ | *IdeaPulley* | NotUnHackable (Aaryan Bansal) | NextJS | ideapulley.com |
 
 ---
 
