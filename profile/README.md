@@ -146,6 +146,47 @@ Design        →  Figma, Framer, Canva
 
 ---
 
+## 📅 Club Year Schedule — 20 Weeks
+
+> All sessions are designed to fit within **~1 hour**. Every week has something to build, learn, or ship.
+
+### 🏷️ Track Legend
+
+| Badge | Track |
+|-------|-------|
+| 🟣 `BUILD` | Coding sprints — ship something real |
+| 🔴 `SECURITY` | Ethical hacking, CTFs, labs |
+| 🟢 `AI/ML` | LLMs, ML models, prompt engineering |
+| 🟡 `PRESENT` | Debates, lightning talks, showcases |
+| 🔵 `COLLAB` | Open source, hackathons, team projects |
+
+---
+
+| Week | 🏷️ Track | 🎯 Session Title | 📋 What Happens | ⏱️ Time |
+|------|----------|-----------------|-----------------|---------|
+| **01** | 🟡 PRESENT | Club kickoff + member skill mapping | Everyone fills a quick skill form (web, python, AI, design). Results visualized live. Set the year's theme and goals. | 45 min |
+| **02** | 🟣 BUILD | HTML/CSS speed-build challenge | Each person recreates a given UI screenshot using only HTML + CSS. Roast each other's pixel accuracy at the end. | 55 min |
+| **03** | 🔵 COLLAB | RawBytez project pitch day | Every member does a 2-min pitch of an idea they want to build. Vote on best ideas. Form teams on the spot. | 50 min |
+| **04** | 🟢 AI/ML | Prompt engineering battles | Teams compete to get the best output from Claude/GPT using only prompt techniques. Judged on creativity and utility. | 45 min |
+| **05** | 🟣 BUILD | API mashup buildathon | Pick 2 free public APIs and mash them into something useful or weird in 50 mins. Live demo at the end. | 55 min |
+| **06** | 🟣 BUILD | Deploy something live | Everyone picks a project (old or new) and gets it deployed — Vercel, Cloudflare Pages, or Railway. No excuses, live URLs only. | 55 min |
+| **07** | 🟡 PRESENT | Tech trend debates — hot takes only | Topics: AI will replace devs / open source always wins / Web3 is dead. Timed 3-min arguments + live audience votes. | 45 min |
+| **08** | 🟡 PRESENT | Project showcase — show what you built | Open floor for anyone to demo something they've been working on. No judgment, no minimum quality bar. Prototype, idea, or shipped — all welcome. | 50 min |
+| **09** | 🟣 BUILD | Clone a famous UI in React | Pick a famous UI (Spotify sidebar, Notion page, Twitter card) and recreate it in React + Tailwind. 50-min sprint. | 50 min |
+| **10** | 🔵 COLLAB | Open source contribution workshop | Fork a real GitHub repo with "good first issue" tags. Write a meaningful PR together. Proper git workflow, for real. | 55 min |
+| **11** | 🟣 BUILD | Reverse-engineer a UI | Pick any popular app (Airbnb, Linear, Vercel dashboard). Analyse its layout, spacing and patterns. Rebuild its core UI from scratch. | 55 min |
+| **12** | 🟢 AI/ML | Build a chatbot — no-code vs code | First 20 min: Flowise/Botpress no-code. Next 30 min: raw fetch() to a free LLM API. Compare both approaches live. | 50 min |
+| **13** | 🟡 PRESENT | Lightning talks — teach something in 5 mins | Every member picks ONE thing they know well. 5 min each, strict timer. Zero slides required. Pure knowledge transfer. | 50 min |
+| **14** | 🟣 BUILD | Browser extension buildathon | Build a real Chrome/Firefox extension from scratch — tab manager, custom new tab, site blocker, anything useful. Ship it. | 55 min |
+| **15** | 🟡 PRESENT | Project showcase — show what you built | Open floor for anyone to demo something they've been working on. No judgment, no minimum quality bar. Prototype, idea, or shipped — all welcome. | 50 min |
+| **16** | 🔵 COLLAB | Hackathon prep + team forming | Research upcoming hackathons (Devfolio, MLH). Form teams. Brainstorm 3 viable ideas per team. Commit to one. | 50 min |
+| **17** | 🟣 BUILD | Build a public API | Design and ship a REST API using FastAPI or Hono. Deploy it live. Hit it from Postman. Add proper docs. | 55 min |
+| **18** | 🟣 BUILD | Progressive Web App in 1 hour | Take any HTML page and make it installable: manifest.json + service worker + offline mode. Install on a real phone. | 55 min |
+| **19** | 🔵 COLLAB | RawBytez internal mini hackathon | 2-hour mini hack session. Teams build anything from scratch. Live demo at the end. Community votes on best project. | 55 min |
+| **20** | 🟡 PRESENT | End-of-year showcase + next year planning | Demo everything built this year. Vote on best project. Hall of Fame updates. Nominate new leaders. Set next year's goals. | 55 min |
+
+---
+
 ## 📜 Club Rules & Code of Conduct
 
 ```
